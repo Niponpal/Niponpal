@@ -22,9 +22,5 @@ Skills: Software Engineer | C# | Asp .Net | .Net core MVC | MS SQL server |Full 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Niponpal&show_icons=true&count_private=true)  
 
-![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/Niponpal/contributions?format=svg&private=true)  
-
-![GitHub metrics](https://metrics.lecoq.io/Niponpal)  
-
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=Niponpal)  
 
