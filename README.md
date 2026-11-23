@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Nipon Chandra Pal
 #### Asp .Net | .Net core MVC | MS SQL server | C# 
-![Asp .Net | .Net core MVC | MS SQL server | C# ](https://media.licdn.com/dms/image/v2/D5616AQF-aVhwYrWteg/profile-displaybackgroundimage-shrink_350_1400/B56Zh.3Y7dHkAg-/0/1754475107125?e=1760572800&v=beta&t=L6dA2h8x9Ra67pojWK89EGIDZkza6BNFZ45O_RomQ7Y)
+
 
 I am a seasoned full-stack developer with a strong focus on ASP.NET technologies—including Web Forms, MVC, and Razor Pages.
 
